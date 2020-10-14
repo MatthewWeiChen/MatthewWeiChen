@@ -4,7 +4,8 @@
 I am a Full Stack Web Developer with a passion for creating usable applications. The technologies I enjoy working with include
 React.js, JavaScript, PostgreSQL, and Node.js. I also love to problem solve and attain the release of endorphins from solving them!
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=matthewweichen)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=matthewweichen&show_icons=true&theme=cobolt)
+
 
 
 ## Dev Story
