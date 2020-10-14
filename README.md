@@ -1,5 +1,5 @@
 ## Hi, I'm Matt 👋
-<img src="https://github.com/MatthewWeiChen/MatthewWeiChen/Matthew%20Chen%20(1).png">
+<img src="https://github.com/MatthewWeiChen/MatthewWeiChen/blob/main/Matthew%20Chen%20(1).png">
 
 I am a Full Stack Web Developer with a passion for creating usable applications. The technologies I enjoy working with include
 React.js, JavaScript, PostgreSQL, and Node.js. I also love to problem solve and attain the release of endorphins from solving them!
