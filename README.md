@@ -5,9 +5,6 @@ I am a Full Stack Web Developer with a passion for creating usable applications.
 React.js, JavaScript, PostgreSQL, and Node.js. I also love to problem solve and attain the release of endorphins from solving them!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matthewweichen&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=matthewweichen&show_icons=true&theme=cobalt&count_private=true"/>
 </a>
 
