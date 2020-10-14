@@ -7,8 +7,9 @@ React.js, JavaScript, PostgreSQL, and Node.js. I also love to problem solve and 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matthewweichen&repo=github-readme-stats" />
 </a>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=matthewweichen&show_icons=true&theme=cobalt&count_private=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=matthewweichen&show_icons=true&theme=cobalt&count_private=true"/>
+</a>
 
 
 ## Dev Story
