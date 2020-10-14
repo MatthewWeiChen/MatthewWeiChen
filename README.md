@@ -4,6 +4,9 @@
 I am a Full Stack Web Developer with a passion for creating usable applications. The technologies I enjoy working with include
 React.js, JavaScript, PostgreSQL, and Node.js. I also love to problem solve and attain the release of endorphins from solving them!
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mattweichen)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Dev Story
 I am a full stack web developer who, at some point, has hit that great wall that one time or another has hit us all which is, "Is this all I will do in my life?" Previously I worked in customer service taking on average 50-100 calls a day at BSH Home appliances; the monotony of the position really helped me reflect on my life and career choices.
 
