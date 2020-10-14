@@ -12,6 +12,7 @@ In my journey of self reflection, I came to the conclusion that I could do so mu
 
 I quickly learned through the program that customer service and web development go hand in; I don't undermine anything I learned in the previous position, but rather, I am now able to apply those skills I obtained with coding. Some of these skills are communication, professionalism, active listening, empathy and so much more.
 
+## My GitHub Stats: 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=matthewweichen&show_icons=true&theme=cobalt&count_private=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=matthewweichen&hide=css&theme=cobalt">
